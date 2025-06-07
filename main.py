@@ -13,7 +13,7 @@ def main():
         input("Press Enter to continue....")
 
         num1 = random.randint(1, 10)
-        #num2 = random.randint(1, 11)
+        num2 = random.randint(1, 11)
         num3 = random.randint(1, 10)
         num4 = random.randint(1, 11)
         player = num1 + num2
